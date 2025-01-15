@@ -1,0 +1,9 @@
+{
+	"name": "devADFAbd",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e84c6a34-6acc-4f90-b4fc-cc145b39799a",
+		"tenantId": "53ec3483-dd01-4c50-a7b8-01553cb8e5ee"
+	}
+}
